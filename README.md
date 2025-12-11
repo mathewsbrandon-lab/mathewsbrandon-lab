@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Brandon, a data science student based in San Diego.
 <!--
 **mathewsbrandon-lab/mathewsbrandon-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
