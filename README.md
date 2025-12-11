@@ -1,5 +1,8 @@
 ## Hi there 👋
 I'm Brandon, a data science student based in San Diego.
+Currently working: Data Managment for Analytics and Machine Learning Fundamentals.
+Tools: Python, Jupyter Notebook
+Reach me: LinkedIn
 <!--
 **mathewsbrandon-lab/mathewsbrandon-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
